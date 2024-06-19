@@ -9,8 +9,16 @@ const Workshop = () => {
       </div>
       <div className="workshop-container">
         <div className="card-container">
-          <div className="card-heading">Robotics and AI <img src="assets/new1.png" alt="new" width={60} className="new-image"  /></div>
-          
+          <div className="card-heading">
+            Robotics and AI{" "}
+            <img
+              src="assets/new1.png"
+              alt="new"
+              width={60}
+              className="new-image"
+            />
+          </div>
+
           <div className="card-content">
             <div className="Upper-rectangle">
               <img
@@ -38,12 +46,15 @@ const Workshop = () => {
             <div className="Upper-rectangle">
               <img src="assets/workshop/iot2.jpg" alt="" className="card-img" />
               <div className="Lower-rectangle">
-                Get big, quick. Solana is made to handle thousands of
-                transactions per second, and fees for both developers and users
-                remain less than $0.01.Get big, quick. Solana is made to handle
-                thousands of transactions per second, and fees for both
-                developers and users remain less than $0.01.Get big, quick.
-                Solana is made to handle thousands of transactionS.
+                Unleashing Creativity in the Our 'Internet of Things' workshop
+                was a triumph of innovation, learning, and sheer FUN! From
+                exploring the endless possibilities of IoT to crafting
+                mind-blowing projects, our talented students transformed ideas
+                into reality. Witnessing the joy on their faces as they
+                conquered coding challenges and brought their loT visions to
+                life was truly magical. Each student added a unique spark to the
+                workshop, turning it into a vibrant tapestry of ideas and
+                enthusiasm.
               </div>
             </div>
           </div>
